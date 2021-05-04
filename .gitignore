@@ -1,0 +1,13 @@
+node_modules
+package-lock.json
+.eslintcache
+.firebaserc
+firebase.json
+.firebase
+build
+.env
+.env.development
+.env.production
+.lock
+.idea
+
